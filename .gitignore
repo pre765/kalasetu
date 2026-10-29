@@ -1,0 +1,12 @@
+.env
+*.log
+.DS_Store
+Thumbs.db
+
+# Uploaded user files
+assets/images/uploads/*
+!assets/images/uploads/.htaccess
+
+# Local/editor files
+.vscode/
+.idea/
